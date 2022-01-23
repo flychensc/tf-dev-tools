@@ -21,3 +21,7 @@ Inspiron 14-7472
 - [cudnn-11.2-windows-x64-v8.1.0.77](https://developer.download.nvidia.cn/compute/machine-learning/cudnn/secure/8.1.0.77/11.2_20210127/cudnn-11.2-windows-x64-v8.1.0.77.zip)
 - [Anaconda3-2021.05-Windows-x86_64](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe)
 - [TA_Lib-0.4.24-cp38-cp38-win_amd64](https://download.lfd.uci.edu/pythonlibs/x6hvwk7i/TA_Lib-0.4.24-cp38-cp38-win_amd64.whl)
+
+## NVIDIA注册时的人机验证问题
+
+将路由器的DNS换成静态的8.8.8.8和8.8.4.4即可
